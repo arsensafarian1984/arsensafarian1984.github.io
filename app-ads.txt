@@ -100,6 +100,7 @@ xandr.com, 13293, RESELLER, f5ab79cb980f11d1
 zetaglobal.net, 767, RESELLER
 
 
+bigo.sg,3roei243h6,DIRECT
 bigo.sg,3bk6y3kudt,DIRECT
 adingenious.com, 70392, RESELLER
 start.io, 115550145, RESELLER
